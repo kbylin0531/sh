@@ -2,6 +2,6 @@
 set timeout 100
 spawn ssh netcec@aliyun.netcec.com -p 64
 expect "password"
-send "netcec87642\r"
+send "XXXX8XXX2\r"
 interact
 
